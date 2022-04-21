@@ -23,10 +23,10 @@ from telegram.ext.messagehandler import MessageHandler
 from telegram.ext.updater import Updater
 from telegram.update import Update
 
-BOT_KEY = '1661163213:AAFlUcjLL3ny5mR4peNiXx9aJdB_Lau66kk'
+BOT_KEY = '<Enter your telegram api key>'
 
 # Set your path:
-path = 'C:\\Users\\Dreambuilds\\Desktop\\Python\\fx-legends'
+path = '<your credentials path>'
 # Set sheet name
 sheet_name = 'fxlegends'
 # Set scope to use when authenticating:
